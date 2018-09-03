@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Payment modules on PrestaShop Developer Documentation</title>
+    <link>https://devdocs.prestashop.com/1.7/modules/paiement/</link>
+    <description>Recent content in Payment modules on PrestaShop Developer Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 13:16:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://devdocs.prestashop.com/1.7/modules/paiement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
