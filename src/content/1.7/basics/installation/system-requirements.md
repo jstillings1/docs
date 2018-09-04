@@ -12,7 +12,8 @@ PrestaShop needs the following server configuration in order to run:
 * Web server: Apache Web Server 2.2 or any later version.
 * PHP:
     - {{% minver v="1.7.0~1.7.3" %}} PHP 5.4 or later
-    - {{% minver v="1.7.4" %}} PHP 5.6 or later
+    - per thread "BEST Server settings for Prestashop 1.7. tested in production"
+    --> PS 1.7.4.X - explicitly requires php 7.2. and maria DB 10 or mysql 5.7.
 * MySQL: 5.0 or later.
 * Server RAM: The more the better…
 
